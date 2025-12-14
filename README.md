@@ -1,81 +1,86 @@
-<h1 align="center">Hi 👋, I'm Ahmad Waheed</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan 🇵🇰</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ahmad+Waheed;Full+Stack+Developer;Next.js+%26+Django+Expert" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Transforming ideas into reality with Code</h3>
 
 <br/>
 
 <table>
   <tr>
     <td valign="center" width="60%">
+      <h2>👨‍💻 About Me</h2>
       <ul>
+        <li>💼 <b>Professional Exp:</b> For the last <b>2 years</b>, I have been working remotely on <b>Next.js</b> and <b>Django</b> based projects.</li>
         <li>🔭 I’m currently working on <b>Jarves Automation</b></li>
         <li>🌱 I’m currently learning <b>Machine Learning</b></li>
-        <li>👯 I’m looking to collaborate on <b>DevDen</b></li>
         <li>💬 Ask me about <b>React, Nest.js, Python, and JavaScript</b></li>
         <li>⚡ Fun fact: <b>I think I am passionate about myself</b></li>
       </ul>
+      <br/>
       <p align="left">
         <a href="mailto:aw6065209@gmail.com">
-          <img src="https://img.shields.io/badge/Email-aw6065209%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
-        <a href="https://novoresume.com/editor/resume/aa783d60-24fc-11ef-864e-299755d17aa6" target="_blank">
-          <img src="https://img.shields.io/badge/Resume-View%20CV-blue?style=flat-square&logo=libreoffice" alt="Resume" />
+        &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/ahmad-waheed-813033243" target="blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
         </a>
-        <a href="https://github.com/MianAhmadWaheed/MianAhmadWaheed.github.io" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=google-chrome" alt="Portfolio" />
+        &nbsp;&nbsp;&nbsp; <a href="https://novoresume.com/editor/resume/aa783d60-24fc-11ef-864e-299755d17aa6" target="_blank">
+          <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=libreoffice&logoColor=white" alt="Resume" />
         </a>
-      </p>
-      <p align="left">
-        <a href="https://linkedin.com/in/ahmad-waheed-813033243" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-        <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" /></a>
       </p>
     </td>
     <td valign="center" width="40%">
-      <img align="center" alt="coding" width="100%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+      <img align="center" alt="coding" width="100%" src="https://raw.githubusercontent.com/platane/platane/master/public/github-isometric-2.png">
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h2 align="center">🛠 Languages and Tools</h2>
+<h2 align="center">🏆 Achievements</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MianAhmadWaheed&theme=flat&no-frame=true&margin-w=15" alt="trophies" />
+  </a>
+</div>
+
+<br/>
+
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-</p>
-
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MianAhmadWaheed&show_icons=true&theme=radical" alt="Ahmad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianAhmadWaheed&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianAhmadWaheed&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/MianAhmadWaheed/MianAhmadWaheed.github.io">
+    <img src="https://komarev.com/ghpvc/?username=MianAhmadWaheed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
