@@ -36,19 +36,30 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ## 🤝 Connect With Me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/424ahmadwaheed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="38"/>
   </a>
+  &nbsp;&nbsp;
+
+  <!-- Gmail -->
   <a href="mailto:aw6065209@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="38"/>
   </a>
+  &nbsp;&nbsp;
+
+  <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" width="38"/>
   </a>
+  &nbsp;&nbsp;
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="38"/>
   </a>
 </p>
+
 
 ---
 
