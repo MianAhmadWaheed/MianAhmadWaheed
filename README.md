@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Next.js & Django</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Next.js+%2B+Django+Developer;2%2B+Years+of+Hands-on+Experience;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Next.js+%2B+Django+Developer;4%2B+Years+of+Hands-on+Experience;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 👯 Open to collaboration on **Web & AI projects**
 - 💬 Ask me about **Next.js, Django, REST APIs, PostgreSQL**
 - 📫 **aw6065209@gmail.com**
-- 📄 [View Resume](https://novoresume.com/editor/resume/aa783d60-24fc-11ef-864e-299755d17aa6)
+- 📄 [View Resume](https://drive.google.com/file/d/1J97__lhpjDTgzLrI0ksLddjseuVnPmyQ/view?usp=drive_link)
 
 </td>
 <td width="40%" align="center">
@@ -36,18 +36,15 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmad-waheed-813033243" target="_blank">
+  <a href="https://www.linkedin.com/in/424ahmadwaheed/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:aw6065209@gmail.com">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40"/>
   </a>
@@ -78,7 +75,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ## 📊 GitHub Stats (Manual Highlights)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Commits-1200%2B-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pull%20Requests-150%2B-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Contributions-1800%2B-orange?style=for-the-badge"/>
