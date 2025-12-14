@@ -22,28 +22,19 @@
         <a href="mailto:aw6065209@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
-        &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/ahmad-waheed-813033243" target="blank">
+        &nbsp;&nbsp; <a href="https://linkedin.com/in/ahmad-waheed-813033243" target="blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
         </a>
-        &nbsp;&nbsp;&nbsp; <a href="https://novoresume.com/editor/resume/aa783d60-24fc-11ef-864e-299755d17aa6" target="_blank">
+           <a href="https://novoresume.com/editor/resume/aa783d60-24fc-11ef-864e-299755d17aa6" target="_blank">
           <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=libreoffice&logoColor=white" alt="Resume" />
         </a>
       </p>
     </td>
     <td valign="center" width="40%">
-      <img align="center" alt="coding" width="100%" src="https://raw.githubusercontent.com/platane/platane/master/public/github-isometric-2.png">
+      <img align="center" alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa37ea.gif">
     </td>
   </tr>
 </table>
-
-<br/>
-
-<h2 align="center">🏆 Achievements</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MianAhmadWaheed&theme=flat&no-frame=true&margin-w=15" alt="trophies" />
-  </a>
-</div>
 
 <br/>
 
@@ -74,10 +65,14 @@
 
 <br/>
 
-<h2 align="center">📊 Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MianAhmadWaheed&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianAhmadWaheed&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/MianAhmadWaheed/MianAhmadWaheed.github.io">
