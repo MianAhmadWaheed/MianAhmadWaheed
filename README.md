@@ -36,28 +36,33 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ## 🤝 Connect With Me
 
 <p align="center">
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/424ahmadwaheed/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="38"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Waheed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
 
   <!-- Gmail -->
   <a href="mailto:aw6065209@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="38"/>
+    <img src="https://img.shields.io/badge/Email-aw6065209%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+
+</p>
+
+<p align="center">
 
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" width="38"/>
+    <img src="https://img.shields.io/badge/StackOverflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="38"/>
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+
 </p>
 
 
